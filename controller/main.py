@@ -11,6 +11,8 @@ robotService = RobotService()
 origins = [
     "http://52.79.49.1:8000",
     "http://52.79.49.1:8080",
+    "http://52.79.49.1:8081",
+    "http://52.79.49.1:80",
     "http://localhost",
     "http://localhost:8080",
 ]
